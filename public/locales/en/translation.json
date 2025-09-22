@@ -1,0 +1,62 @@
+{
+    "header": {
+        "Accueil": "Home",
+        "Projets": "Projects",
+        "Contact": "Contact",
+        "About": "About",
+        "Login": "Login"
+    },
+    "main": {
+        "title1": "Hello, I'm Amine El Idrissi",
+        "title2": "Web Developer",
+        "title3": "Full Stack",
+        "title4": "Passionate About Coding",
+        "description": "Holder of a Professional Bachelor's degree in Computer Engineering, a Technical Diploma in Web Development, and a high school diploma in Physical Sciences, I am passionate about software development. Serious, motivated, and curious, I aim to contribute to innovative projects",
+        "skills": "My skills",
+        "button1": "Contact us",
+        "button2": "Upload CV"
+    },
+    "about": {
+        "title": "About me",
+        "description": "My name is Amine El Idrissi, a full stack web developer passionate about technology since a young age.\nMy journey in computer science was inspired from the very beginning by my cousin, a PhD student in computer science, whose work and perseverance deeply influenced me.\nWatching her code, solve complex problems, and contribute to innovative projects introduced me to a fascinating world — one of technology, logic, and digital creation.\nThis inspiration led me to seriously pursue web development, where I learned to build applications using modern tools such as React, Laravel, TailwindCSS, and Livewire.\nI’ve had the opportunity to apply my skills through various projects and internships, always driven by curiosity, discipline, and a strong desire to learn."
+    },
+    "projects": {
+        "title": "My projects",
+        "content": "Discover some of my recent projects. Each one represents a unique challenge that I tackled with passion and determination."
+    },
+    "contact": {
+        "title": "Contact me",
+        "paragraph": "Do you have a project in mind or a question? Feel free to contact me. I will get back to you as soon as possible.",
+        "name": "Name",
+        "placeHoldername": "Your name",
+        "placeHolderemail": "youremail@gmail.com",
+        "Sujet": "Subject",
+        "placeholdersujet": "Subject of your message",
+        "message": "Message",
+        "placeholdermesage": "Your message...",
+        "phone": "Phone number",
+        "send": "Send",
+        "address": "Address",
+        "pparagraph": "Find me on :"
+    },
+    "auth": {
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "username": "Username",
+        "password": "Password",
+        "word1": "<Welcome />",
+        "word2": "<Secure />",
+        "word3": "<Easy access />",
+        "motdepassoublier": "Forget password ?",
+        "se connecter": "Log in",
+        "Souvenirmoi": "Remember me",
+        "lparagraph": "Don't have an account?",
+        "nomcomplet":"Full name"
+    },
+    "footer": {
+        "rights": "All rights reserved",
+        "paragraph1": "Passionate full-stack web developer",
+        "paragraph2": "creating modern web experiences."
+    }
+}

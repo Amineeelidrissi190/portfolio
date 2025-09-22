@@ -1,0 +1,64 @@
+{
+  "header": {
+    "Accueil": "Accueil",
+    "Projets": "Projets",
+    "Contact": "Contact",
+    "About": "A propos",
+    "Login": "S'authentifier"
+  },
+  "main": {
+    "title1": "Bonjour, c'est Amine El idrissi ",
+    "title2": "Développeur Web",
+    "title3": "Full Stack",
+    "title4": "Passionné par le code",
+    "description": "Titulaire d'une Licence Pro en Génie Informatique, d'un DTS en Développement Web et d'un Bac en Sciences Physiques, je suis passionné par le développement informatique. Sérieux, motivé et curieux, je souhaite contribuer à des projets innovants",
+    "skills": "Mes competences",
+    "button1": "Me contacter",
+    "button2": "Telecharger CV"
+  },
+  "about": {
+    "title": "A propos de moi",
+    "description": "Je m'appelle Amine El Idrissi, développeur web full stack passionné par les technologies depuis mon plus jeune âge. Mon parcours dans l'informatique a été influencé dès le départ par ma cousine, doctorante en informatique, dont le travail et la persévérance m'ont profondément inspiré.En la voyant coder, résoudre des problèmes complexes et contribuer à des projets innovants, j'ai découvert un univers qui me fascinait : celui de la technologie, de la logique et de la création numérique.C'est cette inspiration qui m'a poussé à me former sérieusement au développement web, où j'ai appris à concevoir des applications avec des outils modernes comme React, Laravel, TailwindCSS ou encore Livewire.J'ai eu l'opportunité de concrétiser mes compétences à travers plusieurs projets et stages, toujours guidé par la curiosité, la rigueur et le désir d'apprendre."
+  },
+  "projects": {
+    "title": "Mes projets",
+    "content": "Découvrez quelques-uns de mes projets récents. Chacun d'entre eux représente un défi unique que j'ai relevé avec passion et détermination."
+  },
+  "auth": {
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "word1": "<Bienvenue />",
+    "word2": "<Securise/>",
+    "word3": "<Acces facile/>",
+    "motdepassoublier":"mot de passe oublie ?",
+    "se connecter":"Se connecter",
+    "Souvenirmoi":"Se souvenir de moi",
+    "lparagraph":"Vous n'avez pas de compte?",
+    "nomcomplet":"Nom complet"
+  },
+
+  "contact": {
+    "title": "Contactez-moi",
+    "paragraph":"Vous avez un projet en tête ou une question ? N'hésitez pas à me contacter. Je vous répondrai dans les plus brefs délais.",
+    "name": "Nom complet",
+    "placeHoldername":"Votre nom complet",
+    "placeHolderemail": "votreemail@gmail.com",
+    "Sujet":"Sujet",
+    "placeholdersujet":"Sujet de votre message",
+    "message": "Message",
+    "placeholdermesage": "Votre Message",
+    "phone":"Telephone",
+    "send": "Envoyer",
+    "address":"Adresse",
+    "pparagraph":"Retrouvez moi sur :"
+    
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "paragraph1":"Développeur Web Full Stack passionné",
+    "paragraph2":"créant des expériences web modernes."
+  }
+}

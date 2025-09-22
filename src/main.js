@@ -31,9 +31,9 @@ function Main() {
   // Compétences
   const skills = [
     { name: "HTML / CSS / Tailwindcss", level: 90 },
-    { name: "JavaScript / React", level: 85 },
-    { name: "Node.js / Express js", level: 65 },
-    { name: "PHP / MVC", level: 70 },
+    { name: "JavaScript / React", level: 95 },
+    { name: "Node.js / Express js", level: 85 },
+    { name: "PHP / MVC", level: 85 },
     { name: "MongoDB / MySQL", level: 85 },
     { name: "Laravel / Livewire", level: 90 },
     { name: "Git / GitHub", level: 90 },
